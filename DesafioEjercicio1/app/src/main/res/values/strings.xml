@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DesafioEjercicio1</string>
+    <string name="nombre">Nombre</string>
+    <string name="salario_base">Salario base</string>
+    <string name="enviar">Enviar</string>
+    <string name="resultado">Resultado: </string>
+</resources>
